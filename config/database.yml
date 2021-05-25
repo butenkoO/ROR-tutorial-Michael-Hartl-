@@ -19,6 +19,6 @@ test:
 
 production:
   adapter: postgresql
-  database: database_serv_production  
-  username: andriybutenko94@gmail.com
-  password: password
+  database: postgres  
+  username: postgres
+  password: postgres
